@@ -4,12 +4,10 @@ Tugas Praktikum 7 Dasar Pemrograman Berbasis Objek 2025 C1
 # Sistem Pendaftaran Kursus UTBK SKibidih
 
 ## Prasyarat
-- PHP 8.0 atau lebih tinggi
-- MySQL/MariaDB
-- Web Server (Apache/Nginx)
-- Browser modern (Chrome, Firefox, Safari, Edge)
-- Composer (opsional)
-- Git (untuk kontrol versi)
+- PHP 8.0+
+- MariaDB 10.0+
+- Apache 2.0+
+- Web Browser
 
 ## Desain Program
 
