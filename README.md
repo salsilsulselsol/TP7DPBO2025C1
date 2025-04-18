@@ -67,4 +67,5 @@ Program menggunakan tiga tabel utama:
 4. Bisa menggunakan pencarian data juga untuk setiap menu
 
 ## Dokumentasi
-<Soon>
+
+https://github.com/user-attachments/assets/7fb07f61-ab53-48c3-9819-a6650061ed0e
